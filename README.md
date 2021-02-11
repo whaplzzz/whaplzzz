@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Danil
 #### Development
-I'm Danil from Ukraine. I like .NET Core (ASP.NET) and Angular. I really enjoy develop some new projects for myself. I try to read a lot of information and learn something new every day to improve my skills 
+I'm developer from Ukraine. I like .NET Core (ASP.NET) and Angular. I really enjoy develop some new projects for myself. I try to read a lot of information and learn something new every day to improve my skills 
 
 Skills: .NET Core / MsSQL  / HTML / CSS / ASP.NET Core / Angular
 
