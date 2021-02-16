@@ -5,8 +5,6 @@ I'm developer from Ukraine. I like .NET Core (ASP.NET) and Angular. I really enj
 Skills: .NET Core / MsSQL  / HTML / CSS / ASP.NET Core / Angular
 
 - 🔭 I’m currently working on course project 
-- 🌱 I’m currently learning WebSocket and Flutter 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/whaplzzz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/danil-shapvalenko-ba55a0190//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/danil.shapovalenko.925)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/whaplz)  
 
